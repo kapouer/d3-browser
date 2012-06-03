@@ -1,0 +1,26 @@
+{
+  "name": "d3-browser",
+  "version": "2.9.2-1",
+  "description": "d3 npm package for browsers",
+  "keywords": [
+    "dom",
+    "w3c",
+    "visualization",
+    "svg",
+    "animation",
+    "canvas"
+  ],
+  "homepage": "http://mbostock.github.com/d3/",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kapouer/d3-browser.git"
+  },
+  "main": "./index.js",
+  "directories": {
+    "javascripts": "./lib"
+  }
+}
